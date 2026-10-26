@@ -1,0 +1,204 @@
+Lo único que se oía en el angosto pasaje subterráneo era la respiración de los héroes. El Paladín Kaerdrak volvió el adusto rostro hacia los demás y se colocó un dedo en la boca. Un silencio absoluto envolvió la estancia. La sombras de las antorchas bailaban en los muros y apenas se vislumbraba un cercano cruce en la oscuridad. De repente, lo oyeron: el ominoso sonido de escamas al arrastrarse contra el suelo, el traquetear de hueso y el aleteo de correosas alas de murciélago. Los héroes se acercaron entre sí tanto como les fue posible. Almanor el mago comenzó a susurrar un antiguo conjuro protector. Se oyó un silbido cauteloso cuando, al fondo, Ragnar desenvainó su estoque plateado.
+
+Y entonces llegó el ataque. Los pálidos rostros de aquellos que en su día fueron humanos emergieron de las tinieblas y sus ojos brillaron con luz verdosa. Tras ellos se erguía, enorme e imponente, la silueta de la sierpe Gorgona. Las espadas melladas de los no muertos golpearon los escudos de los héroes. Kaerdrak blandió su poderoso hacha contra los enemigos más adelantados, Guelin no dejaba de disparar flechas, y Almanor descargó el fuego mágico contra los monstruos. EL salón se llenó de pronto con los aullidos, gritos de batalla, chillidos y órdenes. Y las primeras gotas de sangre cayeron sobre el suelo de granito, que parecía estar ansioso por recibirla...
+
+OBJETIVO
+En este juego se enfrentan dos bandos - un grupo de héroes y el oscuro Nigromante Zorkal, el Guardián de Dorn, con los monstruos bajo su control.
+
+Los héroes tienen que llegar al centro del laberinto subterráneo conocido como Dorn y destruir a Zorkal. Para poder enfrentarse a él, primero deberán abrir la Puerta de la Condena recuperando tres de los antiguos artefactos que yacen ocultos en Dorn.
+
+El Guardián pretende completar un oscuro ritual que abrirá el abismo a los pies del pueblo de Argos. Para ello tiene que llenar de monstruos la Cámara Ritual durante más de un día a modo de sacrificio. El Guardián también puede ganar eliminando a los héroes, ya que así nadie podrá hacerle frente.
+
+
+PREPARACIÓN
+a) Elección de Héroes y Guardián
+El Guardián está generalmente representado por un jugador. Los héroes pueden ser entre 1 y 5 jugadores. En tu primera partida, el jugador más experimentado debería ser el Guardián. Para otras partidas, podéis echarlo a suertes utilizando las tarjetas de héroe.
+
+b) Colocación del tablero
+Coloca 6 fichas de Artefactos en las casillas azules con un símbolo de runa del tablero (marcadas con una “A” en el Mapa de Dorn del apéndice). Después, coloca 24 fichas de Tesoros en las casillas amarillas con borde marrón del tablero (marcadas con una “P” en el Mapa de Dorn).
+c) Colocación de los héroes
+Los jugadores deciden quiénes serán los 5 héroes que utilizarán durante la partida. Un mismo jugador puede jugar con 2 ó más héroes. Para la primera partida te recomendamos a Kaerdrak, Choros, Almanor, Ragnar y Eleanor (dejando sin utilizar a Gor, Guelin, Riel y Vargen). Encontrarás la descripción de los héroes y sus habilidades en sus tajetas (ver la Descripción de Tarjeta de Heroe, en el apéndice).
+
+Cada héroe comienza la partida en el primer nivel: coloca una piedra blanca en el número 1 de la tarjeta de héroe. La piedra muestra el nivel actual del héroes y sus habilidades correspondientes. Cada jugador dispone de piedras rojas (también llamadas gotas de sangre) para indicar el total de sus puntos de vida. El número de puntos de vida de cada tarjeta de héroe representa la cantidad inicial y el máximo número de puntos de vida que puede tener en un nivel determinado. Las gotas de sangre sobrantes se dejan cerca del tablero como reserva.
+
+Cada jugador roba una carta de Bendición para cada uno de sus héroes, la mira y la coloca en la mesa boca abajo. Cada jugador sólo conoce su propia Bendición y no puede comentarla con los demás. Las figuras de los héroes se ponen en el tablero, en el pueblo de Argos (ver Mapa de Dorn).
+
+d) Colocación de Zorkal
+El jugador que representa al Guardían coloca la figura de Zorkal en el trono de la sala tras la Puerta de la Condena (ver Mapa de Dorn). Después coloca 4 piedras verdes junto a la tarjeta de Zorkal (del mismo modo que los héroes colocaron gotas de sangre), representando los puntos de vida de Zorkal. También coloca una piedra blanca en el número 1 de la carta, para indicar su nivel actual.
+
+Tras esto, el Guardián roba al azar 5 monstruos menores y 1 mayor (Mira el Apéndice: Bestiario) de la pila de fichas de monstruos disponibles. Coloca a estos monstruos, que constituyen sus fuerzas iniciales, en cualquiera de las 6 casillas negras del tablero (marcadas con la letra “M” en el Mapa de Dorn). Todos los monstruos mayores y los Engendros comienzan la partida con dos puntos de vida, por lo que sus fichas han de tener boca arriba el lado con 2 calaveras.
+
+El primer turno transcurre durante el Día, así que el jugador Guardián lo indica colocando la ficha Dia/Noche tras el trono, con el lado diurno cara arriba. El Guardián le dará la vuelta a esta ficha al final de cada uno de sus turnos.
+
+Por último, el Guardían roba 6 cartas de Ritual que mantendrá en secreto hasta el momento de utilizarlas.
+
+
+ SECUENCIA DE JUEGO
+Ambos bandos (Zorkal y los héroes) van alternándose turnos durante la partida. Cada turno se compone de varias Fases. No se puede cambiar el orden de las fases durante el turno. Antes de que comience la siguiente fase de un turno, todos los héroes y monstruos han de completar la anterior. El Guardián comienza a jugar.
+
+A) Turno del Guardián
+1.- Puede poner en juego un Ritual si lo desea y ha conseguido suficientes gotas de Sangre para pagar su coste (ver sección Cartas de Ritual).
+2.- Invoca un número de Monstruos que depende de si es Día o Noche (ver sección Invocar Monstruos).
+3.- Mueve los Monstruos (ver sección Movimiento)
+4.- Ataca con los Monstruos (ver sección  9.b Ataques de monstruos)
+5.- Dale la vuelta a la ficha Dia/Noche.
+
+Una vez abierta la Puerta de la Condena, Zorkal se mueve y ataca en la misma fase que los monstruos y se le aplican las mismas reglas que a éstos.
+
+B) Turno de los Héroes
+1.- Pueden jugarse las Bendiciones de los Héroes (ver sección Cartas de Bendición).
+2.- Todos los héroes Mueven, lo que incluye recoger y dejar Tesoros y Artefactos, usar objetos y entregárselos a otros (ver secciones Movimiento, Tesoros y Artefactos)
+3.- Todos los héroes Atacan o lanzan Hechizos, (ver secciones Ataques de los héroes y Magia).
+4.- Curación. Se resuelven los efectos de Curación (Fuente de Curación, pueblo de Argos, Herbolario…)
+Los héroes deben decidir el orden en que ejecutarán cada fase del turno (quién se mueve primero, quién ataca antes). Si no pueden llegar a un acuerdo, realizan la fase en orden alfabético de los nombres de los héroes.
+
+
+CARTAS DE RITUAL
+Al comienzo de su turno, el Guardián puede jugar una Carta de Ritual. Para realizar el ritual, el Guardián debe pagar la cantidad de gotas de sangre especificadas en cada carta de Ritual. Consigue gotas de sangre cada vez que un héroe pierda un punto de vida, ya sea golpeados por un monstruo o porque utilice un conjuro u objeto que requiera la pérdida de sangre (puntos de vida).
+
+Cada carta de Ritual sólo puede utilizarse una vez y su efecto se extiende sólo hasta el final del turno, a no ser que la carta especifique lo contrario. Si Zorkal comienza su turno habiendo ya usado las 6 cartas de Ritual, puede en ese caso gastar 4 gotas de sangre cada turno para invocar 1 monstruo mayor adicional, según las reglas habituales de invocación.
+
+
+CARTAS DE BENDICIÓN
+Al comienzo del turno de los héroes, cada uno de ellos puede usar su Carta de Bendición. Si más de un héroe desea usar su carta durante el mismo turno, actuará antes aquélla que se haya dado la vuelta primero. Cada carta de Bendición sólo se puede utilizar una vez por partida. No se permite a los héroes intercambiar sus cartas de Bendición entre ellos, ni siquiera si el mismo jugador controla más de un héroe. Cada jugador mantiene su bendición en secreto tanto del Guardián como del resto de jugadores.
+
+
+INVOCANDO MONSTRUOS
+El Guardián se enfrenta a los héroes principalmente mediante el uso de monstruos que controla por medio de magia nigromántica. Las habilidades de los monstruos se pueden encontrar en el Bestiario (ver apéndice).
+
+Durante el Día (los turnos impares), Zorkal puede invocar tan sólo un monstruo menor. De Noche (los turnos pares), puede invocar o bien dos monstruos menores o bien uno mayor.
+
+Si invoca monstruos menores, el Guardián puede elegir el tipo de monstruo. Las Ratas Gigantes han de ser invocadas en las Cloacas, los Esqueletos con Picas en la Cripta, los Zombis en el Cementerio, y los Engendros en el Pantano Negro (consulta el Mapa de Dorn). No se puede invocar a los Engendros en casillas adyacentes a los héroes, pero sí pueden hacerlo los demás monstruos.
+
+Los Monstruos mayores (Vampiro, Momia, Fantasma, Gorgona) han de invocarse siempre en el Templo Oscuro (consulta el Mapa de Dorn). El Guardián no puede elegir el tipo de monstruo mayor que invocará. En su lugar, ha de extraerlo al azar de entre todas las fichas de monstruos mayores disponibles.
+
+Los Engendros y los monstruos mayores siempre entran en juego con dos puntos de vida, por lo que se colocan del lado de las dos calaveras hacia arriba.
+
+El Guardián puede mover y atacar con los monstruos invocados en el mismo turno de su aparición. Los Engendros son una excepción; pueden empezar a moverse y atacar a partir del siguiente turno de Zorkal. Los nuevos monstruos no pueden invocarse sobre casillas ocupadas por monstruos o héroes. El Guardian elige la casilla concreta dentro del lugar de invocación en el que aparece el monstruo.
+
+EL Guardián puede controlar tan sólo a 6 monstruos de cada tipo en el tablero. Una vez tenga 6 del mismo tipo, debe invocar monstruos de otros tipos. En caso de que se quede sin fichas de un monstruo concreto, el Guardián puede intercambiar las fichas de monstruos menores y mayores que usan los héroes para llevar cuenta de la experiencia (ver sección Avance de Nivel).
+
+
+MOVIMIENTO
+Durante su turno, todos los héroes y monstruos pueden mover una cantidad de casillas igual o inferior al número indicado en sus Tarjetas o en el Bestiario. No se les permite mover en diagonal entre casillas cuadradas.
+
+Cada héroe y monstruo puede interrumpir su movimiento y continuarlo más tarde en la misma fase del turno. De este modo es posible, por ejemplo, que un monstruo se mueva 3 casillas, deje pasar a otro monstruo, y luego complete su movimiento.
+
+Los monstruos y los héroes no pueden detenerse en la misma casilla ni pasar por encima de otro. Un héroe puede pasar por encima de otro sólo en los caminos exteriores de color ocre con casillas circulares.
+
+Tanto héroes como monstruos pueden entrar en las casillas en las que se invoca a los monstruos y aquéllas donde aparecen las tropas iniciales de Zorkal. Las Cloacas son las tres casillas independientes en fila. Héroes y monstruos puedes entrar en espacios con un Tesoro o Artefacto, y también en las Fuentes de Curación.
+Los monstruos no pueden entrar en los caminos ocre exteriores de casillas circulares (unas de esas casillas está también frente al Herbolario). Ni héroes, ni monstruos, ni Zorkal pueden de ninguna forma pasar a través de la Puerta de la Condena antes de que se haya abierto. Los monstruos no pueden ser teleportados a casillas a las que no se les permita entrar.
+
+
+COMBATE
+
+a) Ataque de los héroes
+Si un héroe se encuentra adyacente a un monstruo, puede atacarle usando la habilidad que muestra el icono de la espada en su Tarjeta de Personaje. Todos los ataques tienen lugar después de que los héroes hayan terminado sus movimientos. El héroe puede usar tantos ataques por turno como tenga en su nivel actual (en primer nivel, normalmente todos tienen un solo ataque). Algunos héroes tienen habilidades que hacen más poderosos sus ataques, como el el Ataque Circular de Choros o el Ataque Perforante de Eleanor.
+
+Cada ataque de un héroe causa normalmente un punto de daño a un monstruo, lo que significa que un ataque matará a cualquier monstruo menor (excepto a los Engendros que tienen 2 puntos de Vida). El héroe se queda con la ficha del monstruo como marcador de puntos de experiencia (ver sección Avance de Nivel). Los monstruos mayores y los Engendros, al tener 2 puntos de vida, sólo resultan heridas tras recibir un ataque, por lo que se le da la vuelta a la ficha del monstruo para que aparezca la cara que muestra tan sólo una calavera, indicando así que a la criatura le queda tan sólo 1 punto de vida. Si se ataca de nuevo al monstruo herido, éste muere y el héroe se queda la ficha como marcador de puntos de experiencia. 
+
+b) Ataque de los monstruos
+Si un monstruo se encuentra adyacente a un héroe, puede atacarle. Cada héroe puede parar un ataque de un monstruo durante cada uno de los turnos de Zorkal. El resto de ataques no pueden pararse. Por cada ataque no detenido, el héroe pierde un punto de vida (gota de sangre). Zorkal primero anuncia cuántos monstruos atacan al héroe, y éste decide qué ataque desea bloquear.
+
+Los monstruos menores sólo disponen de 1 ataque por turno. Algunos monstruos mayores tienen 2 ataques por turno.
+
+Un monstruo menor que ataque en solitario no puede por tanto dañar a un héroe (ya que bloqueará su ataque). Dos monstruos menores que ataquen al mismo héroe le causarán 1 punto de daño (puede parar el primer ataque, pero no el segundo). Tres monstruos menores que ataquen al mismo héroe le causarán 2 puntos de daño. Un Vampiro (con 2 ataques por turno) que ataque junto a un monstruo menor hará 2 puntos de daño. Dos Vampiros atacando juntos causarán 3 puntos de de daño, etc…
+c) Proyectiles
+Algunos héroes (Guelin y Riel) y monstruos (las Gorgonas) pueden disparar. Un ataque de proyectiles es similar a uno normal, pero a distancia. También se puede disparar a casillas adyacentes. La distancia se mide como el camino que el héroe ha de seguir para llegar a la casilla del objetivo. 
+
+Un héroe puede disparar a través de otros héroes, pero no de monstruos, que se consideran obstáculos. Los monstruos pueden disparar a través de otros monstruos, pero no de héroes.
+
+No es posible disparar por encima de obstáculos. Un obstáculo son todos los lugares del tablero en los que no se puede entrar. Héroes y monstruos necesitan una “línea de visión”: no pueden disparar a un oponente en diagonal si hay un muro o columna en medio, a no ser que pueda disparar legalmente a través de una casilla adyacente. Si no queda claro si el disparo es posible, intenta unir con una línea recta cualquier parte de la casilla del atacante con el centro de la casilla del blanco. Si hay alguna línea recta que no cruce ningún obstáculo, se puede disparar. En caso de duda, se permite el disparo (ver Ejemplos de Juego del apéndice).
+
+d) Pica
+Una heroína (Eleanor) y un monstruo (los esqueletos) están armados con picas. La distancia de ataque de las picas es únicamente a 2 casillas. Si dos casillas cuadradas están conectadas en diagonal, se puede atacar con una pica, puesto que se consideran a distancia 2. No se puede atacar por encima de obstáculos. Al igual que con proyectiles, un héroe puede atacar con una pica por encima de otro héroe, pero no por encima de un monstruo. Un monstruo puede atacar por encima de otro monstruo, pero no de un héroe. (ver Ejemplos de Juego del apéndice)
+
+e) Magia
+Algunos héroes (Almanor, Gor) pueden atacar mediante magia. Durante la fase de ataque, pueden utilizar una de las habilidades con un símbolo de estrella de sus tarjetas de personaje. Los hechizos complejos tienen junto a la estrella una gota de sangre, indicando que el héroe pierde 1 punto de Vida por la fatiga. La gota de sangre perdida pasa a manos del Guardián.
+
+Está permitido apuntar a espacios tras las esquinas usando la magia (es decir, no requiere “línea de visión”). La distancia se calcula como el camino que tendría que recorrer el héroe para llegar a la casilla del objetivo. No se pueden lanzar hechizos que atraviesen muros u otros obstáculos. Se puede lanzar magia por encima de otros héroes, pero no de monstruos (ver Ejemplos de Juego del apéndice).
+
+
+
+f) Gotas de Sangre
+Si un héroe pierde uno o más puntos de vida por cualquier motivo, debe entregarle ese número de gotas de sangre al Guardián. El Guardián puede usarlas al comienzo de su turno para activar una de sus cartas de Ritual, lo cual devolvería esa sangre de nuevo a la reserva. Los puntos de Vida de Zorkal (cristales verdes) no se pueden utilizar para lanzar los Rituales. El Guardían no puede utilizar las gotas de sangre para curarse, y no puede tener más de 16 gotas de sangre acumuladas: cualquier gota adicional pasa inmediatamente al montón de reserva.
+
+g) Muerte de un héroe
+Si un héroe pierde su última gota de sangre, la partida ha terminado para él y debe retirar su figura del tablero. Las cartas de Tesoro que tuviera son destruidas y se eliminan también del juego. Si el héroe portaba un artefacto, se coloca en la casilla donde haya fallecido. Cualquier héroe puede recoger el artefacto sin activar la invocación de un nuevo monstruo mayor (ver Artefactos).
+
+
+AVANCE DE NIVEL
+Cada héroe se queda con las fichas de los monstruos que ha matado. Un monstruo menor vale un punto de experiencia, uno mayor dos. Dejar herido a un Engendro o monstruo mayor no otorga experiencia, toda la experiencia es para el héroe que aseste el golpe letal. Si el héroe acaba con un monstruo utilizando una Bendición o un objeto de Tesoro, también consigue la experiencia.
+
+Si una héroe ha acumulado fichas de monstruos por valor de 5 puntos de experiencia, al final de su turno devuelve estas fichas a la reserva y avanza al segundo nivel. La piedra blanca de su tarjeta se mueve al número 2 y el héroe puede usar inmediatamente sus nuevas habilidades. Si aún le quedan puntos de experiencia, los guarda usando las fichas de monstruos disponibles.
+
+Para avanzar al tercer nivel es necesario tener 7 puntos de experiencia adicionales. Un héroe de terecer nivel no puede subir más, por lo que ya no guarda las fichas de los monstruos derrotados. Si al subir de nivel el máximo número de puntos de vida de un héroe aumenta, este héroe recupera 1 punto de vida como si lo hubiera curado.
+
+Zorkal avanza de nivel como los héroes, sólo que usa gotas de sangre en lugar de puntos de experiencia. Necesita 7 gotas de sangre para avanzar al segundo nivel y 9 más para llegar al tercero. No puede usar sus propios puntos de Vida de color verde para subir de nivel.
+
+
+
+
+CARTAS DE TESORO
+Si un héroe entra en una casilla con un marcador de Tesoro, puede robar una de las cartas de Tesoro. El héroe puede encontrar objetos útiles, pero a veces puede aparecer un monstruo. Una vez se ha robado la carta de objeto, se elimina el marcador de Tesoro del tablero y ya no se podrán conseguir más cartas de Tesoro en esa casilla. Los monstruos no pueden recoger marcadores ni cartas de Tesoro.
+
+Si aparece un objeto en la carta de Tesoro, el héroe mantiene la carta de modo que el resto de jugadores y el guardián puedan verla. Cada héroe puede utilizar tan sólo 1 objeto por turno. Todos los objetos pueden usarse tan sólo una vez, después se retiran del juego. Si los héroes están adyacentes entre sí, pueden intercambiarse objetos durante la fase de movimiento.
+
+
+ARTEFACTOS
+Los artefactos no otorgan a los héroes ninguna habilidad especial, pero los héroes deben conseguir al menos tres para poder abrir la Puerta de la Condena y enfrentarse a Zorkal. Si un héroe entra en una casilla con un artefacto, puede recogerlo y colocarlo en su tarjeta. Si dos héroes se encuentran en casillas adyacentes, pueden intercambiarse los artefactos durante la fase de movimiento. Los monstruos no pueden recoger artefactos ni llevarlos.
+
+Cuando se recoge un artefacto, el equilibrio mágico de Dorn queda alterado. El Guardián puede Invocar un monstruo mayor adicional en su próximo turno. Se aplican todas las reglas habituales de la invocación.
+
+
+EL TABLERO
+Puerta de la Condena - No es posible atravesar de ninguna forma la puerta de la Condena si está cerrada (ni siquiera mediante teleportación o cartas de Bendición). Si hay tres artefactos en la Cámara Ritual, ya sea llevados por los héroes o abandonados por héroes muertos, la puerta se abrirá al comienzo del próximo turno del Guardián. No se puede cerrar la Puerta una vez ha sido abierta.
+
+Pantano Negro - El Guardián puede invocar Engendros en cualquier lugar del Pantanto negro, incluso en las casillas que muestren un marcador de Tesoro o Artefacto. Los límites exactos del pantano se muestran en el mapa de Dorn. El pequeño lago en el medio del pantano, los árboles y las colinas se consideran todos como obstáculos.
+Fuentes de Curación - Si un héroe se encuentra sobre una de las dos fuentes al funal del turno, puede recuperar hasta dos puntos de Vida perdidos. Los monstruos pueden atacar a un héroe situado en una de las fuentes.
+Pueblo de Argos - Si hay algún héroe en el pueblo de Argos al final de su turno, el curandero local les permite recuperar hasta dos puntos de vida perdidos a cada uno. El pueblo es la única casilla del juego que puede estar ocupada por más de un héroe al mismo tiempo. La única manera de salir del pueblo es a través de la entrada principal, no se puede acceder directamente al Pantano negro o a las minas abandonadas.
+
+Los Caminos Ocre - Los monstruos no pueden entrar en las casillas redondas de los caminos ocre, ni pueden ser teleportados a ellas. Los héroes pueden atacar a los monstruos a su alcance desde los caminos, pero los monstruos no pueden atacar a los héroes en el camino de ninguna forma.
+
+Teleportadores - hay dos Teleportadores en el tablero, uno desde el Pantano negro a Dorn (casilla “T1” en el mapa) y otro de las minas abandonadas al Dorn (casilla “T2”). Los monstruos y héroes pueden atravesarlos en ambas direcciones. Las casillas de teleportador del mismo símbolo se consideran la misma, lo que significa que un héroe que permanezca en una de ellas está al mismo tiempo en ambas. Por tanto podría ser atacado por monstruos de ambos lados al mismo tiempo.
+
+Tras atravesar un Teleportador, se puede continuar el movimiento. No se puede disparar, usar una pica o lanzar magia a través del teleportador. Los efectos de los hechizos, cartas de Bendición y objetos no se aplican a través de un teleportador.
+
+Herbolario - Si un héroe permanece en la casilla redonda frente a la casa del Herbolario al final de su turno, el Herbolario le permitirá recuperar dos puntos de Vida. Esta casilla sigue las mismas reglas que las casillas redondas de los caminos ocre.
+
+VICTORIA
+Si la situación es desesperada, es posible rendirse. El bando que lo haga pierde obviamente la partida.
+
+a) Victoria de los Héroes
+La única manera que tienen los héroes para ganar es derrotando a Zorkal. Si Zorkal pierde su último punto de Vida (¡no las gotas de Sangre de los héroes!), el Guardián pierde la partida. 
+
+Los héroes sólo pueden luchar directamente contra Zorkal cuando se abre la Puerta de la Condena. Zorkal se mueve y ataca junto con el resto de monstruos y a efectos de reglas se le considera un monstruo.
+
+b) Victoria del Guardián
+El Guardián gana cuando realice con éxito el Ritual Definitivo que abrirá el abismo bajo el suelo de Argos. Para que el Ritual Definitivo tenga éxito, la Cámara Ritual en el centro (ver Mapa de Dorn) ha de estar totalmente llena de monstruos al final del turno de Zorkal durante tres turnos seguidos (son necesarios 19 monstruos). La distrubución de los monstruos en la cámara puede variar entre turno y turno. Si hay algún héroe en lugar de algún monstruo en la Cámara, el Ritual sigue teniendo éxito.
+
+Si el Guardián elimina a todos los héroes, obtiene la Victoria, ya que no quedará nadie que pueda impedirle realizar el Ritual Definitivo.
+
+
+VARIANTES: JUEGO AVANZADO
+Antes de empezar a jugar, los jugadores pueden acordar que jugarán usando alguna de estas reglas adicionales que añaden profundidad al juego, sin favorecer a ningún bando en concreto.
+
+a) Grupo aleatorio
+Los jugadores roban los héroes al azar al comienzo de la partida.
+
+b) Artefacto Perdido
+Durante la Preparación del juego, se colocan los artefactos boca abajo en los espacios azules del tablero. Luego se dan la vuelta y el que muestra un hacha se elimina del juego.
+
+c) El Derrumbamiento
+Durante la Preparación del juego, el Guardián coloca dos marcadores de Derrumbamiento en el tablero. Se consideran obstáculos, pero es posible destruirlos. Primero el Guardián roba dos de los seis marcadores de Derrumbe. Los coloca en el tablero de modo que el número del marcador corresponda con el número de la casilla de derrumbe del mapa de Dorn (marcadas de “Z1” a “Z6”). Un Derrumbre tiene 3 puntos de Vida, de modo que coloca debajo de cada marcador otros dos marcadores que irás retirando a medida que sufra daños. El Derrumbe puede ser atacado de igual modo que un monstruo o héroe, pero las Bendiciones y Rituales no les afectan. Si el derrumbre pierde el último punto de vida, se elimina del juego. Los héroes no obtienen experiencia por eliminarlo.
+
+d) Huída Táctica
+Si un héroe se mueve a una casilla adyacente a un monstruo, debe terminar su fase de Movimiento. Si un monstruo se mueve a una casilla adyacente a un héroe, debe terminar su fase de Movimiento. Esta restricción no se aplica a los héroes y monstruos que tienen la habilidad de pasar libremente por las casillas ocupadas por otros héroes o monstruos.
+
+Si un héroe comienza un turno adyacente a un monstruo, puede escoger luchar o huir. Si huye, no tiene que detenerse en espacios adyacentes a monstruos, pero no podrá usar objetos de Tesoro, atacar ni lanzar hechizos este turno. La misma regla se aplica a los monstruos - si huyen de un héroe, no podrán atacar en el mismo turno.
+
+e) Día y Noche Auténticos
+Los jugadores pueden acordar un tiempo límite para los turnos de los héroes y Zorkal, entre 2 y 5 minutos. Transcurrido ese tiempo, comienza a jugar el otro bando.
+
+f) Cuatro Héroes
+Es posible jugar con sólo cuatro héroes. Todos los héroes ven incrementados sus puntos de vida máximos iniciales y de cada nivel en 1. El Guardián comienza con 3 monstruos menores, robándolos de la reserva y colocándolos en las casillas negras de su elección. El Guardián necesita una gota de sangre adicional para jugar cualquier Ritual o avanzar de nivel. Las demás reglas se aplican normalmente.
